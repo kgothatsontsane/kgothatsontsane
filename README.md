@@ -1,8 +1,6 @@
-<!--![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)-->
 ![Kgothatso_banner](https://github.com/kgothatsontsane/kgothatsontsane/blob/main/images/profile-banner.jpeg)
 <h1 align="center">Hello <img src="https://github.com/kgothatsontsane/kgothatsontsane/blob/main/images/wave.gif" width="30px">, I'm Kgothatso Ntsane</h1>
 <h3 align="center">I'm a Senior Software Engineer from South Africa</h3>
-<!--<img align= "right" alt="Coding" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">-->
 
 <table>
   <tr>
@@ -51,7 +49,7 @@
        <a href="http://www.github.com/kgothatsontsane"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kgothatsontsane&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
     <td>
-      <a href="https://github.com/kgothatsontsane"><img alt="Kgothatso Ntsane's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgothatsontsane&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+      <a href="https://github.com/kgothatsontsane"><img alt="Kgothatso Ntsane's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgothatsontsane&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=1d2a3a"/></a>
     </td>
   </tr>
 </table>
@@ -68,8 +66,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kgothatsontsane&" alt="kgothatsontsane" /></p>
 -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kgothatsontsane" alt="kgothatsontsane" /></a> </p>
-
+<!--
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=kgothatsontsane" alt="kgothatsontsane" /> </p>
+-->
 
 <!--
 **kgothatsontsane/kgothatsontsane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
