@@ -1,7 +1,7 @@
 <!--![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)-->
-![Aysuarex_banner](https://user-images.githubusercontent.com/99369085/189547193-992ed153-38b7-4814-8cba-4054cdb382ea.png)
-<h1 align="center">Hi <img src="https://github.com/aysuarex/aysuarex/blob/main/wave.gif" width="30px">, I'm Kgothatso Ntsane</h1>
-<h3 align="center">An Senior Software Engineer from South Africa</h3>
+![Kgothatso_banner](https://github.com/kgothatsontsane/kgothatsontsane/blob/main/images/profile-banner.jpeg)
+<h1 align="center">Hello <img src="https://github.com/kgothatsontsane/kgothatsontsane/blob/main/images/wave.gif" width="30px">, I'm Kgothatso Ntsane</h1>
+<h3 align="center">I'm a Senior Software Engineer from South Africa</h3>
 <!--<img align= "right" alt="Coding" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">-->
 
 <table>
