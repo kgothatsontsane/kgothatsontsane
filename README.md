@@ -7,19 +7,19 @@
 <table>
   <tr>
     <td>
-      <p>- 🔭 I'm currently working on <b>a strategy to seamlessly incorporate software engineering principles into the realm of Civil Engineering.</b></p>
-      <p>- 🌱 I’m currently studying <b>Civil Engineering</b> at the <a href=https://www.ui.edu.ng/ target="_blank">University of Ibadan</a></p>
-      <p>- 💬 Ask me about <b>Anything in my stack</b></p>
-      <p>- 📫 How to reach me: <b><a href=mailto:nvisionfactory@@gmail.com alt=email target="_blank">Send me an email</a></b></p>
-      <p>- ⚡ Fun fact: <b>I'm a graduate of the ALX Software Engineering Programme (cohort 5)</b></p>
+      <p>- 🔭 I'm currently working on an <b><a href="https://github.com/kgothatsontsane/agencycentral" alt=email target="_blank">Agency Project Management </a></b>app </p>
+      <p>- 🌱 I’m currently studying <b>Computer Science</b> at the <a href=https://www.unisa.ac.za/ target="_blank">University of South Africa</a></p>
+      <p>- 👯 I’m looking to provide valuable open source contributions
+      <p>- 📫 How to reach me: <b><a href="mailto:nvisionfactory@gmail.com" alt="Email Me" target="_blank">Send me an email</a></b></p>
+      <p>- 🌍 I'm based in Johannesburg</b></p>
     </td>
     <td>
       <h3 align="left">Connect with me:</h3>
       <p align="left">
-      <a href="https://linkedin.com/in/kgothatsontsane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayomide-suara" height="30" width="40" /></a>
-      <a href="https://twitter.com/kgothatsontsane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kgothatsontsane" height="30" width="40" /></a>
-      <a href="https://fb.com/aysuarex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aysuarex" height="30" width="40" /></a>
-      <a href="https://instagram.com/aysuarex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aysuarex" height="30" width="40" /></a>
+      <a href="https://linkedin.com/in/kgothatsontsane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkdedIn" height="30" width="40" /></a>
+      <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a>
+      <a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+      <a href="https://instagram.com/x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
       </p>
       <h3 align="left">Languages and Tools:</h3>
       <p align="left"> 
@@ -45,13 +45,13 @@
 <table>
   <tr>
     <td>
-       <a href="https://github.com/kgothatsontsane"><img alt="Ayomide Suara's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kgothatsontsane&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+       <a href="https://github.com/kgothatsontsane"><img alt="Kgothatso Ntsane's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kgothatsontsane&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
     </td>
     <td>
        <a href="http://www.github.com/kgothatsontsane"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kgothatsontsane&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
     <td>
-      <a href="https://github.com/kgothatsontsane"><img alt="Ayomide Suara's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgothatsontsane&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+      <a href="https://github.com/kgothatsontsane"><img alt="Kgothatso Ntsane's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgothatsontsane&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
   </tr>
 </table>
@@ -61,13 +61,14 @@
 <p align="right"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://komarev.com/ghpvc/?username=kgothatsontsane&label=Profile%20views&color=0e75b6&style=flat" alt="kgothatsontsane" /> </p>
 
 
+
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kgothatsontsane&show_icons=true&locale=en&layout=compact" alt="kgothatso ntsane" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kgothatsontsane&show_icons=true&locale=en" alt="kgothatsontsane" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kgothatsontsane&" alt="kgothatsontsane" /></p>
 -->
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kgothatsontsane" alt="kgothatsontsane" /></a> </p>-->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kgothatsontsane" alt="kgothatsontsane" /></a> </p>
 
 
 <!--
